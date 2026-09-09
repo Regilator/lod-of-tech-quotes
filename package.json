@@ -1,0 +1,44 @@
+{
+  "name": "lod-of-tech-quotes",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">   <img width=\"260\" height=\"260\" alt=\"Kali-dragon-icon svg\" src=\"https://github.com/user-attachments/assets/d911b71f-6ad9-45b7-9513-237f83377023\" alt=\"Kali Linux Icon\"/>   <h1 align=\"center\">Cybersecurity Projects 🐉</h1>   <p align=\"center\">70 Cybersecurity Projects, Certification Roadmaps & Resources</p> </div>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Regilator/lod-of-tech-quotes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Regilator/lod-of-tech-quotes/issues"
+  },
+  "homepage": "https://github.com/Regilator/lod-of-tech-quotes#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^1.43.0",
+    "next": "^14.2.35",
+    "next-auth": "^4.24.15",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "tailwind-merge": "^3.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "autoprefixer": "^10.5.5",
+    "postcss": "^8.5.28",
+    "tailwindcss": "^3.4.17",
+    "typescript": "7.0.2"
+  }
+}
